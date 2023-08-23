@@ -71,7 +71,7 @@ _"A tecnologia move o mundo, e eu sou apaixonada por ser parte desse movimento."
 
 [<img align="left" height="114px" width="94px" alt="Diazero" src="https://www.diazerosecurity.com.br/images/og-default.jpg"/>](https://www.diazerosecurity.com.br/pt)
 
-💼 **Cargo:** **Frot-end Developer (Pl)** \
+💼 **Cargo:** **Front-end Developer (Pl)** \
 🏢 **Empresa:** [**Diazero**](https://www.diazerosecurity.com.br/pt) • Contract \
 💻 **Linguagens & Tecnologias:** `ReactJs`, `Typescript`, `Figma`, `Redux`, `Hooks`, `Scrum` \
 ⭐ **Projetos em destaque:** [Heimdall](https://www.diazerosecurity.com.br/pt/heimdall)
@@ -81,7 +81,7 @@ _"A tecnologia move o mundo, e eu sou apaixonada por ser parte desse movimento."
 
 [<img align="left" height="104px" width="94px" alt="Epiousion" src="https://www.epiousion.com.br/img/metatag/header.jpg"/>](https://www.epiousion.com.br/)
 
-💼 **Cargo:** **Frot-end Developer (Jr)** \
+💼 **Cargo:** **Front-end Developer (Jr)** \
 🏢 **Empresa:** [**Epiousion IT**](https://www.epiousion.com.br/) • Contract \
 💻 **Linguagens & Tecnologias:** `ReactJs`, `Typescript`, `Figma`, `MaterialUI`, `Axios` \
 ⭐ **Projetos em destaque:** [BTO](https://bto.net.br/),  [Prado Construções](http://pradoconstrucoes.com.br/)  
